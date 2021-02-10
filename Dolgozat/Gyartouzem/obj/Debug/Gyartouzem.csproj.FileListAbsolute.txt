@@ -1,0 +1,11 @@
+C:\Users\KisKupó\source\repos\Gyartouzem\Gyartouzem\bin\Debug\Gyartouzem.exe.config
+C:\Users\KisKupó\source\repos\Gyartouzem\Gyartouzem\bin\Debug\Gyartouzem.exe
+C:\Users\KisKupó\source\repos\Gyartouzem\Gyartouzem\bin\Debug\Gyartouzem.pdb
+C:\Users\KisKupó\source\repos\Gyartouzem\Gyartouzem\obj\Debug\Gyartouzem.csprojAssemblyReference.cache
+C:\Users\KisKupó\source\repos\Gyartouzem\Gyartouzem\obj\Debug\Gyartouzem.Properties.Resources.resources
+C:\Users\KisKupó\source\repos\Gyartouzem\Gyartouzem\obj\Debug\Gyartouzem.csproj.GenerateResource.cache
+C:\Users\KisKupó\source\repos\Gyartouzem\Gyartouzem\obj\Debug\Gyartouzem.csproj.CoreCompileInputs.cache
+C:\Users\KisKupó\source\repos\Gyartouzem\Gyartouzem\obj\Debug\Gyartouzem.exe
+C:\Users\KisKupó\source\repos\Gyartouzem\Gyartouzem\obj\Debug\Gyartouzem.pdb
+C:\Users\KisKupó\source\repos\Gyartouzem\Gyartouzem\obj\Debug\Gyartouzem.Form2.resources
+C:\Users\KisKupó\source\repos\Gyartouzem\Gyartouzem\obj\Debug\Gyartouzem.Form1.resources
