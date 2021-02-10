@@ -1,0 +1,6 @@
+CREATE TABLE [dbo].[ME] (
+    [ID_ME] BIGINT NOT NULL,
+    [Megnevezes] NCHAR(20) NOT NULL, 
+    PRIMARY KEY CLUSTERED ([ID_ME] ASC)
+);
+
